@@ -1,2 +1,2 @@
 # CodeChef
-Problems from CodeChef.com
+Problems from codechef.com
